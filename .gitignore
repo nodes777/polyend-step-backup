@@ -1,1 +1,19 @@
+# macOS system files
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files on custom volumes
+Icon?
+
+# Spotlight and metadata
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+
+# macOS volume-specific hidden files
+.VolumeIcon.icns
+
+# Other possible Apple metadata on external drives
+.apdisk
